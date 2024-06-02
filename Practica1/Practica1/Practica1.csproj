@@ -147,6 +147,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="root\dist\icons-social\facebook.png" />
+    <Content Include="root\dist\icons-social\google.png" />
     <Content Include="root\dist\script.js" />
     <Content Include="root\dist\style.css" />
     <Content Include="Scripts\bootstrap.bundle.js" />
